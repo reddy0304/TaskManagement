@@ -47,7 +47,7 @@ A full-stack Task Management application where users can:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/taskmanagement.git
+git clone https://github.com/reddy0304/taskmanagement.git
 cd taskmanagement
 
 
