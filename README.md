@@ -1,4 +1,4 @@
-# 📝 TaskManagement App
+# 📝 Taskly App
 
 A full-stack Task Management application where users can:
 
